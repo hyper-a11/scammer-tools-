@@ -26,7 +26,7 @@ Koi API key ki zaroorat nahi, tool in-built data sources aur proxies use karta h
 
 ### **Termux / Linux**
 # ⚡ INSTALLATION 
-*bash
+
 git clone https://github.com/hyper-a11/SCAMMER.git
 cd SCAMMER
 bash setup.sh
